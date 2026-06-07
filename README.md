@@ -2,6 +2,8 @@
 
 This project is a simple remote controller for mpc-hc powered by vue2.js. An old version cause I did it a long time ago.
 
+This project is a simple remote controller for mpc-hc powered by vue2.js. An old version cause I did it a long time ago.
+
 ## Project setup
 ```
 npm install
