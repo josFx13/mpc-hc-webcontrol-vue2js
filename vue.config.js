@@ -1,6 +1,6 @@
 module.exports = {
     devServer: {
-        proxy: 'http://localhost:13579'
+        proxy: 'http://127.0.0.1:13579'
     },
     productionSourceMap: false
 }
